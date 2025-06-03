@@ -1,0 +1,2 @@
+Usando gerenciador de contexto
+Arquivo será fechado automaticamente
